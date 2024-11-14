@@ -1,0 +1,14 @@
+[90m[main 2024-11-14T11:54:30.827Z][0m update#setState disabled
+[90m[main 2024-11-14T11:54:30.835Z][0m update#ctor - updates are disabled as there is no update URL
+[91m[main 2024-11-14T11:54:32.121Z][0m vscode-file: Refused to load resource /tmp/.mount_cursorS77lvd/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorS77lvd/resources/app/extensions/theme-seti/icons/seti.woff)
+[90m[main 2024-11-14T11:54:52.338Z][0m Extension host with pid 57825 exited with code: 0, signal: unknown.
+[90m[main 2024-11-14T11:54:56.206Z][0m Extension host with pid 57948 exited with code: 0, signal: unknown.
+[90m[main 2024-11-14T11:56:42.796Z][0m Extension host with pid 58035 exited with code: 2, signal: unknown.
+[91m[main 2024-11-14T11:56:42.796Z][0m [UtilityProcess id: 3, type: extensionHost, pid: 58035]: crashed with code 2 and reason 'killed'
+[91m[main 2024-11-14T11:56:42.803Z][0m [UtilityProcess type: shared-process, pid: 57805]: crashed with code 2 and reason 'killed'
+[91m[main 2024-11-14T11:56:42.816Z][0m [UtilityProcessWorker]: terminated unexpectedly with code 2, signal: unknown
+[91m[main 2024-11-14T11:56:42.817Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 57806]: crashed with code 2 and reason 'killed'
+[90m[main 2024-11-14T11:56:51.133Z][0m update#setState disabled
+[90m[main 2024-11-14T11:56:51.141Z][0m update#ctor - updates are disabled as there is no update URL
+[91m[main 2024-11-14T11:56:52.331Z][0m vscode-file: Refused to load resource /tmp/.mount_cursorpsCqkc/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorpsCqkc/resources/app/extensions/theme-seti/icons/seti.woff)
+[90m[main 2024-11-14T11:56:57.376Z][0m Extension host with pid 58511 exited with code: 0, signal: unknown.
